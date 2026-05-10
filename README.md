@@ -66,6 +66,13 @@ const hadi = {
 ```
 ---
 
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=hadikarimi2008&theme=dark&border_radius=8&background=21262D&ring=2D3748&fire=2D3748&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=8B949E)](https://git.io/streak-stats)
+
+</div>
+
+---
 ## 📄 Professional Identity
 
 <div align="center">
