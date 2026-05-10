@@ -47,6 +47,25 @@
 
 ---
 
+```javascript
+const hadi = {
+  pronouns: "he" | "him",
+  location: "Iran 🇮🇷",
+  role: "Frontend Developer",
+  level: "Mid-Level",
+  languages: ["JavaScript"],
+  technologies: {
+    frontend: ["React", "Next.js", "Tailwind CSS", "Bootstrap", "Framer", "WordPress"],
+    backend: ["Prisma"],
+    database: ["PostgreSQL"],
+    tools: ["Git", "GitHub", "Vercel", "Cloudflare", "VS Code"]
+  },
+  currentFocus: "Building modern, high-performance web experiences",
+  funFact: "I think dark mode is the only mode."
+};
+```
+---
+
 ## 📄 Professional Identity
 
 <div align="center">
