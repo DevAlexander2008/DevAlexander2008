@@ -1,28 +1,69 @@
-# About Me:
-<br>I’m Hadi, a 18-year-old front-end developer from Iran with a strong passion for building modern, responsive, and high-performance web applications. I specialize in creating clean user interfaces and seamless user experiences using technologies such as HTML, CSS, JavaScript, React, and Next.js.<br><br>I’m highly motivated to grow in the field of web development, continuously learn new tools and frameworks, and improve both my technical and creative skills. My goal is to become a world-class developer who can build real, scalable products and contribute to impactful projects.<br><br>Beyond coding, I’m always exploring new ideas, sharpening my problem-solving abilities, and staying up-to-date with the latest trends in the frontend ecosystem.
+# 👋 Hi, I'm Hadi
 
- **Response time:** < 24 hours  
- **Open to:** Remote, part-time, full-time
-
-
----
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-21262d.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-21262d.svg?style=for-the-badge&logo=css3-[#bc8cff].svg&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-21262d.svg?style=for-the-badge&logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/react-21262d.svg?style=for-the-badge&logo=react&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-21262d?style=for-the-badge&logo=next.js&logoColor=white)  ![wordpress](https://img.shields.io/badge/WordPress-21262d.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-21262d.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-21262d.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![GitHub](https://img.shields.io/badge/github-21262d.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-21262d.svg?style=for-the-badge&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-21262d.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/cloudflare-21262d.svg?style=for-the-badge&logo=cloudflare&logoColor=white) ![Framer](https://img.shields.io/badge/framer-21262d.svg?style=for-the-badge&logo=framer&logoColor=white) 
+> **About Me:**
+> <br>I’m Hadi, a 18-year-old front-end developer from Iran with a strong passion for building modern, responsive, and high-performance web applications. I specialize in creating clean user interfaces and seamless user experiences using technologies such as HTML, CSS, JavaScript, React, and Next.js.<br><br>I’m highly motivated to grow in the field of web development, continuously learn new tools and frameworks, and improve both my technical and creative skills. My goal is to become a world-class developer who can build real, scalable products and contribute to impactful projects.<br><br>Beyond coding, I’m always exploring new ideas, sharpening my problem-solving abilities, and staying up-to-date with the latest trends in the frontend ecosystem.
+>
+> **Response time:** < 24 hours  
+> **Open to:** Remote, part-time, full-time
 
 ---
 
-## 📄 Identity and Detailed Skills
-**For a full and in-depth view of my technical skills, experience breakdown, and professional identity, please refer to my official documentation:** **[View Full Technical Identity (Hadi-identity.md)](https://github.com/DevAlexander2008/alexander-identity)**
+## 💻 Tech Stack
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Next JS](https://img.shields.io/badge/Next-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<br>
+![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/cloudflare-F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Framer](https://img.shields.io/badge/framer-0055FF.svg?style=for-the-badge&logo=framer&logoColor=white)
+
+</div>
+
+---
+
+## 📄 Professional Identity
+
+<div align="center">
+  <a href="https://github.com/DevAlexander2008/alexander-identity">
+    <img src="https://img.shields.io/badge/Full_Technical_Identity-21262d?style=for-the-badge&logo=googledocs&logoColor=white" alt="Professional Identity"/>
+  </a>
+</div>
+
+<br>
 
 ---
 
 ## 🎓 Certifications & Credentials
-**View verifiable documentation of my professional certifications and courses:** **[View All Certificates Here](https://certificates-zeta.vercel.app/)**
 
- <!--
+<div align="center">
 
+ **View verifiable documentation of my professional certifications and courses:**
+
+<br>
+
+<a href="https://certificates-zeta.vercel.app/">
+  <img src="https://img.shields.io/badge/%20View_All_Certificates-21262d?style=for-the-badge&logo=readthedocs&logoColor=white" alt="View All Certificates"/>
+</a>
+
+</div>
+
+<br>
+
+<!--
 ## 🌐 Website
-Visit my personal website: [www.hadikarimi2008.ir](https://www.hadikarimi2008.ir) 
-
+<div align="center">
+  <a href="https://www.hadikarimi2008.ir">
+    <img src="https://img.shields.io/badge/Website-hadikarimi2008.ir-21262d?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+  </a>
+</div>
 -->
