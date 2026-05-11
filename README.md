@@ -40,6 +40,7 @@
 
 ![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/cloudflare-F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
 
@@ -50,7 +51,7 @@
 ```javascript
 const hadi = {
   pronouns: "he" | "him",
-  location: "Iran 🇮🇷",
+  location: "Iran",
   role: "Frontend Developer",
   level: "Mid-Level",
   languages: ["JavaScript"],
@@ -68,7 +69,7 @@ const hadi = {
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=hadikarimi2008&theme=dark&border_radius=8&background=21262D&ring=2D3748&fire=2D3748&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=8B949E)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hadikarimi2008&theme=dark&border_radius=20&background=0D1117&gradient=true&gradientColors=003B8E%2C1E90FF%2C87CEEB%2C4B0082%2C1E90FF&ring=00BFFF&fire=87CEFA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00BFFF&sideLabels=1E90FF&dates=8B949E&stroke=00BFFF&strokeWidth=3)](https://git.io/streak-stats)
 
 </div>
 
