@@ -1,17 +1,4 @@
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=hadikarimi2008&color=2D3748&label=Profile+Views)
-  
-</div>
-
-<br>
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=hadikarimi2008&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-<br>
+![Profile Views](https://komarev.com/ghpvc/?username=hadikarimi2008&color=2D3748&label=Profile+Views)
 
 
 # 👋 Hi, I'm Hadi
@@ -115,6 +102,14 @@ const hadi = {
 </div>
 
 <br>
+<br>
+<br>
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=hadikarimi2008&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 <!--
 ## 🌐 Website
