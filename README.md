@@ -102,7 +102,13 @@ const hadi = {
 </div>
 
 <br>
+<br>
 
+<div align="center">
+  
+![Dino GIF](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
+
+</div>
 <!--
 ## 🌐 Website
 <div align="center">
